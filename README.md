@@ -5,4 +5,4 @@ Evita modificaciones directas, protege los datos y facilita el mantenimiento del
 Permite crear objetos con distintos tipos de información, brindando mayor flexibilidad al trabajar con ellos.
 
 ## ¿Cómo aseguran los setters la integridad de los datos?
-Los setters verifican los valores antes de asignarlos, previniendo errores y garantizando la consistencia de los datos.git 
+Los setters verifican los valores antes de asignarlos, previniendo errores y garantizando la consistencia de los datos.
